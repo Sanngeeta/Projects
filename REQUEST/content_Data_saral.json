@@ -1,0 +1,12 @@
+{
+     "id": "2381",
+     "parent_exercise_id": "2383",
+     "name": "Load and Loads",
+     "slug": "json__methods/load",
+     "sequence_num": 2002,
+     "review_type": "peer",
+     "solution": null,
+     "content": "[{\"type\":\"markdown\",\"value\":\"\\n\\n## Load  and Loads\\n\\n **load():-** load() method ek json object or json file ko json data ke sath python object(dictionaries) mai karta hai. **loads()** method ek json string leta hai or use json objects mai convert ker deta hai. \"}]",
+     "submission_type": "url",
+     "github_link": "https://github.com/navgurukul/newton/tree/master/json/methods/load.md"
+}
